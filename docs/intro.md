@@ -10,44 +10,73 @@ Merit is a global freelancing platform designed for one purpose:
 
 ## 🌍 Why Merit?
 
-Most freelancing platforms are full of hidden rules:
+Most freelancing platforms are full of hidden barriers:
 
 - **Limited visibility** based on country
-- **Feature restrictions** based on geography
-- **Pricing wars** that favor the lowest bidder, not the most competent
+- **Unspoken bias** around names, accents, or regions
+- **Pricing pressure** driven by where someone lives, not what they bring
 
-Merit changes that.  
-There are **no region-based limits**, no gatekeeping, and no shortcuts.
+This leads to real problems:
 
-You move forward based on the **value you bring**, not where you're from.
+- Freelancers in lower-income countries get lowballed or ignored  
+- Freelancers in higher-income countries get pushed out by unrealistic pricing  
+- Great talent — from anywhere — gets buried by unfair filters
+
+**Merit is built to fix this.**
+
+We don’t punish you for where you’re from.  
+We don’t reward you for where you’re from either.
+
+We reward you for what you can do — how well you do it — and how you treat others while doing it.
+
+On Merit, **there’s no edge in gaming geography.**  
+Only one thing moves you forward: **real merit.**
 
 ---
 
 ## 🔐 How It Works
 
-- **Clients post jobs** or service requests
-- **Freelancers apply**, complete the job, and get paid via secure escrow
-- When both sides are satisfied, they **earn a badge (NFT)** — proof of successful, dispute-free work
-- These badges unlock access to community spaces and advanced platform features
+Clients post jobs or service requests — but not as a race to the lowest price.
+
+Freelancers apply based on their experience tier, and rates reflect quality — not where someone is from.
+
+All payments are held in secure escrow until the job is done and both sides agree it’s complete.
+
+---
+
+## 💵 No Price Wars. Just Fair Work
+
+Our system avoids price wars by:
+
+- Grouping freelancers into skill-based tiers
+- Letting clients choose based on **value**, not just **cost**
+- Ensuring freelancers never compete unfairly across economic gaps
+
+This creates a **healthy, respectful environment** where:
+
+- Great work is rewarded
+- Lowballing isn’t needed
+- Everyone — from clients to freelancers — wins through merit
 
 ---
 
 ## 🏅 Merit = Trust You Can See
 
-You can't buy your way in.
-
+You can't buy your way in.  
 You can't fake your way up.
 
 Every badge is **earned** — by delivering great work and treating others fairly.
+
+These badges (NFTs) are proof of dispute-free collaboration and unlock more access across the platform — like community spaces, discussions, and priority listings.
 
 ---
 
 ## 💬 Built for Real People
 
-Whether you're a student from Nairobi, a designer in Buenos Aires, or an engineer in Karachi:
+Whether you're a student from Nairobi, a designer in Buenos Aires, an engineer in Karachi, or a developer in Ohio:
 
-- Your voice matters
-- Your work matters
+- Your voice matters  
+- Your work matters  
 - Your reputation is yours to build — and own
 
 Merit is open.  
