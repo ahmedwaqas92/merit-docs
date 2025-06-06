@@ -40,10 +40,20 @@ In this first version, we want to make sure users can:
 
 ### 4. Earning Reputation (NFT Badges)
 
-- After a job is completed **without any disputes**, **both the freelancer and the client** earn a special badge (NFT)
-- These badges cannot be bought — only earned through successful cooperation
-- They reflect your contribution to the platform (e.g., Bronze for $100 in contracts, Silver for $500, Gold for $1000)
-- The more badges you earn, the more features and access you unlock inside the community
+After a job is completed **without any disputes**, **both the freelancer and the client** earn a special badge (NFT).  
+These badges cannot be bought — only earned through successful cooperation.
+
+They show how much verified work you’ve done and how reliably you’ve engaged with others.
+
+You rise through levels based on your contributions over time. For example:
+
+- **Bronze**: $100 in completed contracts  
+- **Silver**: $500  
+- **Gold**: $1000+
+
+> ⚠️ These levels are just examples. The actual badge tiers and thresholds will be finalized as the platform evolves.
+
+The more badges you earn, the more platform features you unlock — including trusted community spaces, job visibility boosts, and merit-based privileges.
 
 ### 🏅 Why Badges Matter
 
