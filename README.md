@@ -26,6 +26,7 @@ Merit is built for skilled freelancers and clients who value **competence over l
 ## 💡 Why AGPLv3?
 
 We’ve licensed this project under the **GNU Affero GPL v3** to ensure:
+
 - The code remains open and forkable
 - No one (including large corporations) can commercialize this without contributing back
 - The spirit of **community-first ownership** remains protected
