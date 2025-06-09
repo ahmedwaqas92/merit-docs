@@ -17,9 +17,9 @@ In this first version, we want to make sure users can:
 
 - Join the community and unlock new privileges based on the work they’ve done
 
-> [!info]
-> **The platform runs on the Solana network** — it's fast, secure, and cheap to use.
+> 💡 **Powered by Solana**
 >
+> **The platform runs on the Solana network** — it's fast, secure, and cheap to use.  
 > ⚡ _Never heard of Solana? Don’t worry — we’ll explain it later without sounding like a crypto bro._
 
 ---
