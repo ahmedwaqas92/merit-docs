@@ -34,7 +34,7 @@ Yes—Jinnah NFTs carry value because **you earned them**. They're not just for 
 
 While you can't trade or sell your NFT, it’s more than a souvenir:
 
-### Here’s what we’re working toward:
+### Here’s what we’re working toward
 
 - **Staking rewards**: In the future, you may be able to stake your Jinnah NFTs to unlock platform discounts or extra features.  
 - **Local perks**: We’re exploring partnerships with real-world brands—so you could flash your badge and earn perks like coworking access, event invites, or small business discounts.  
