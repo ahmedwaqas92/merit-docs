@@ -1,6 +1,6 @@
 # MVP: What We're Building First
 
-This page explains the very first version of the Merit platform — also called the MVP (Minimum Viable Product). It’s the simplest working version of the idea, with just enough features to prove it works and help real people use it.
+This page explains the very first version of the Merit platform — also called the MVP (Minimum Viable Product). It’s the simplest working version of the idea, with just enough features to prove it works and helps real people use it.
 
 ---
 
@@ -12,8 +12,12 @@ In this first version, we want to make sure users can:
 
 - Work with others and finish freelance jobs
 - Use a system that holds money safely until the job is done
-- Earn a special badge (NFT) after finishing a job successfully
+- Earn a special badge — something we call a Jinnah NFT — after finishing a job successfully.  
+It’s like a medal you can’t lose, fake, or hang on your fridge. (We’ll explain it properly soon.)
 - Join the community and unlock new privileges based on the work they’ve done
+
+The platform runs on the Solana network — it's fast, secure, and cheap to use.  
+Never heard of Solana? Don’t worry — we’ll explain it later without sounding like a crypto bro.
 
 ---
 
@@ -21,9 +25,13 @@ In this first version, we want to make sure users can:
 
 ### 1. Signing Up and Profiles
 
-- You sign in using a crypto wallet (like MetaMask or Phantom)
-- You can link your email if you want
-- You get a public profile with your skills, reviews, and past jobs
+- You can sign in using a crypto wallet (like MetaMask or Phantom)  
+  If you’re new to crypto or don’t have a wallet — no worries.  
+  You can sign up with your email, and we’ll help set up a secure wallet for you behind the scenes.
+
+- You get a profile with your skills, reviews, and past jobs  
+  You can choose whether this is public or private — and decide if it should be indexed by search engines.  
+  Your privacy is in your hands.
 
 ### 2. Finding and Posting Jobs
 
@@ -40,7 +48,7 @@ In this first version, we want to make sure users can:
 
 ### 4. Earning Reputation (NFT Badges)
 
-After a job is completed **without any disputes**, **both the freelancer and the client** earn a special badge (NFT).  
+After a job is completed **without any disputes**, **both the freelancer and the client** earn a special badge — a Jinnah NFT.  
 These badges cannot be bought — only earned through successful cooperation.
 
 They show how much verified work you’ve done and how reliably you’ve engaged with others.
@@ -53,7 +61,7 @@ You rise through levels based on your contributions over time. For example:
 
 > ⚠️ These levels are just examples. The actual badge tiers and thresholds will be finalized as the platform evolves.
 
-The more badges you earn, the more platform features you unlock — including trusted community spaces, job visibility boosts, and merit-based privileges.
+The more badges you earn, the more platform features you unlock — including trusted community spaces , job visibility boosts, and merit-based privileges.
 
 ### 🏅 Why Badges Matter
 
@@ -105,13 +113,13 @@ We’ll build these step by step after the main version is stable.
 
 If this version is working well, we hope to see:
 
-| What We Track                | Target Number |
-|-----------------------------|---------------|
-| Wallets connected           | 100+ users    |
-| Freelance jobs completed    | 200+ jobs     |
-| Complaints or disputes      | Less than 5%  |
-| Badges earned               | 1 for every 2 jobs |
-| Community members posting   | 30+ people    |
+| What We Track                | Target Number       |
+|-----------------------------|---------------------|
+| Wallets connected           | 100+ users          |
+| Freelance jobs completed    | 200+ jobs           |
+| Complaints or disputes      | Less than 5%        |
+| Badges earned               | 1 for every 2 jobs  |
+| Community members posting   | 30+ people          |
 
 ---
 
