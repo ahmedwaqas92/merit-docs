@@ -18,7 +18,6 @@ In this first version, we want to make sure users can:
 - Join the community and unlock new privileges based on the work they’ve done
 
 &nbsp;  
-&nbsp;
 
 > 💡 **Powered by Solana**
 >
