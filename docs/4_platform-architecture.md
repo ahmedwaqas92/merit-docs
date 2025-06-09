@@ -1,4 +1,4 @@
-# 🧩 Platform Architecture & Workflow
+# Platform Architecture & Workflow
 
 This page explains how Merit works behind the scenes — from posting jobs to getting paid — in the simplest way possible. No tech jargon, no fluff.
 

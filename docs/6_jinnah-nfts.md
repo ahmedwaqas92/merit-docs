@@ -1,4 +1,4 @@
-# 🪙 What Are Jinnah NFTs?
+# What Are Jinnah NFTs?
 
 Think of **Jinnah NFTs** as **digital trust badges** you earn for doing honest, dispute-free work on Merit.
 

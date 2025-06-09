@@ -1,4 +1,4 @@
-# 🌞 Meet Solana: A Beginner’s Guide
+# Meet Solana: A Beginner’s Guide
 
 ## 🚀 What Even *Is* Solana?
 
