@@ -49,10 +49,10 @@ In this first version, we want to make sure users can:
 - If there's a problem, there’s a simple system to resolve it (in early stages, this may be handled by the team)
 - If no complaint is raised in 48–72 hours, the money is sent automatically
 
-### 4. Earning Reputation (NFT Badges)
+### 4. Earning Reputation (Jinnah NFT Badges)
 
-After a job is completed **without any disputes**, **both the freelancer and the client** earn a special badge — a Jinnah NFT.  
-These badges cannot be bought — only earned through successful cooperation.
+After a job is completed **without any disputes**, **both the freelancer & the client** earn a badge — a Jinnah NFT.  
+> 📦 _These badges cannot be bought — only earned through successful cooperation._
 
 They show how much verified work you’ve done and how reliably you’ve engaged with others.
 
