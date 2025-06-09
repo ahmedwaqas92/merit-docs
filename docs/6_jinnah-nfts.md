@@ -40,11 +40,11 @@ While you can't trade or sell it, the platform uses it to measure your experienc
 
 A Jinnah NFT isn’t just shiny—it's useful:
 
-- **Reputation:** Show your history of trustworthy behavior to future clients or freelancers.  
-- **Platform perks:** Access premium features, apply for exclusive jobs, or qualify for lower fees.  
-- **Community standing:** Be seen as someone others can rely on (and maybe even moderate disputes later!).  
+- **Reputation:** It shows you’ve done solid work without disputes. A trust badge that speaks for itself.  
+- **Community access:** Jinnah holders can join Merit’s inner community—connect with other verified users, collaborate, and grow together.  
+- **Recognition, not restriction:** Your NFT boosts your visibility, but it doesn’t block others. Work is still open to everyone based on skill and tier.
 
-The more you earn, the more doors you unlock.
+> Jinnah NFTs don’t lock doors—they open conversations.
 
 ---
 
