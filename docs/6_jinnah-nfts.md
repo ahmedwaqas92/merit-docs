@@ -26,13 +26,22 @@ Both the **freelancer and the client** get one. Because trust goes both ways.
 
 ## 💸 Does It Have Real Value?
 
-Yes! Each Jinnah NFT carries a **value based on the job it came from**.
+Yes—Jinnah NFTs carry value because **you earned them**. They're not just for show.
 
-- The higher the job value, the more valuable the NFT.  
-- For example: If a $500 job is completed, the Jinnah NFT might reflect 3–5% of that in weight or staking power.  
-- This value helps boost your standing in the Merit ecosystem—kind of like XP in a game.
+- Each NFT reflects the size and success of the job it came from.  
+- For example: A $500 job might result in a Jinnah NFT with higher “weight” or trust ranking in the system.  
+- This adds up over time—like XP in a game, but backed by real proof of work.
 
-While you can't trade or sell it, the platform uses it to measure your experience and reward you accordingly.
+While you can't trade or sell your NFT, it’s more than a souvenir:
+
+### Here’s what we’re working toward:
+
+- **Staking rewards**: In the future, you may be able to stake your Jinnah NFTs to unlock platform discounts or extra features.  
+- **Local perks**: We’re exploring partnerships with real-world brands—so you could flash your badge and earn perks like coworking access, event invites, or small business discounts.  
+- **Civic impact**: Think beyond Merit. One day, Jinnah NFTs could signal trust for remote visa programs, startup grants, or skill-based communities.
+
+> These NFTs are your track record, your trust score, and your voice in the Merit network.
+> And we’ll keep finding ways to make them matter—online and offline.
 
 ---
 
