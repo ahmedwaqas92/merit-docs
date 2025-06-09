@@ -55,7 +55,7 @@ Sometimes experienced freelancers want to take on small jobs for practice, creat
 That’s allowed — but with limits:
 
 - **Max 2 jobs per month** in a lower tier  
-- Each job must be **under $250**  
+- Each job must be **under $150**  
 - Designed to **support**, not dominate
 
 > 🧠 It’s like a seasoned pro stepping in for a quick jam session — not to take over the stage.
@@ -79,11 +79,10 @@ No one loses out unfairly. Everyone is protected.
 
 ## 🏅 After the Job — You Both Earn Trust
 
-If the job finishes with **no disputes**, both the client and freelancer get a **Jinnah badge**.
+When the job wraps up, freelancers earn **Solana tokens (SOL)** equivalent to the dollar value of the job, and if there are **no disputes**, both the client and freelancer receive a **Jinnah NFT** (trust badge).
 
-- These are NFTs (unique tokens) that show verified, trust-based work.
-- You can’t buy them. You **earn** them.
-- They help unlock more platform features and respect from the community.
+- These NFTs cannot be purchased — you **earn** them.  
+- They help unlock more platform features and respect from the community.  
 
 > 🎖️ It's like earning a medal — not just for doing the job, but for doing it well and honestly.
 
