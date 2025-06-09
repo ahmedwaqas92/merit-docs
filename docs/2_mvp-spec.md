@@ -58,9 +58,9 @@ They show how much verified work you’ve done and how reliably you’ve engaged
 
 You rise through levels based on your contributions over time. For example:
 
-- **Bronze**: $100 in completed contracts  
-- **Silver**: $500  
-- **Gold**: $1000+
+- **Tier 1**: $100 in completed contracts  
+- **Tier 2**: $500  
+- **Tier 3**: $1000+
 
 > ⚠️ These levels are just examples. The actual badge tiers and thresholds will be finalized as the platform evolves.
 
