@@ -81,7 +81,7 @@ No one loses out unfairly. Everyone is protected.
 
 When the job wraps up, freelancers earn **Solana tokens (SOL)** equivalent to the dollar value of the job, and if there are **no disputes**, both the client and freelancer receive a **Jinnah NFT** (trust badge).
 
-- These NFTs cannot be purchased — you **earn** them.  
+- Jinnah NFTs cannot be purchased — you **earn** them.  
 - They help unlock more platform features and respect from the community.  
 
 > 🎖️ It's like earning a medal — not just for doing the job, but for doing it well and honestly.
