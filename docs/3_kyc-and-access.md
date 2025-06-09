@@ -4,16 +4,31 @@ Freelancers and clients on Merit come from all over the world — including plac
 
 We understand that.
 
+And we’re building this platform so that **you’re not judged by your location, but by what you bring to the table**.  
+Your talent. Your effort. Your word.
+
+Let’s walk through how identity and access work on Merit — in the simplest, most welcoming way we can.
+
 ---
 
 ## 🤝 What KYC Means on Merit
 
-KYC (Know Your Customer) is required only when:
+Let’s talk about something that usually scares people off: **KYC**, short for *Know Your Customer*.
 
-- You're requesting certain privileges (like direct payouts in fiat)
-- You're accessing features that require regulatory compliance (like fund custody or governance voting)
+Most platforms make it feel like a test — long forms, blurry passport scans, and rejection just because of where you’re from.
 
-But unlike most platforms, KYC on Merit is designed to **empower you**, not block you.
+At **Merit**, it’s different.  
+KYC here isn’t a barrier — it’s a bridge.  
+A tool that we only use **when absolutely necessary**, and **always with care**.
+
+You'll only be asked to verify your identity (KYC) in rare cases, like:
+
+- Withdrawing money as **local cash** (regular currency in your country)
+- Participating in governance or decision-making features
+- In rare cases, if local regulations absolutely require identity checks — especially for large or bank-linked transactions — we’ll let you know. But since Merit uses crypto (not traditional banks), we often find smart workarounds that avoid unnecessary KYC.
+
+> 🧡 The goal of KYC on Merit is *trust*, not *exclusion*.  
+> We’ll never let it become a tool that limits access to real opportunity.
 
 ---
 
@@ -32,32 +47,37 @@ That’s why Merit offers a **graceful, trust-first KYC path**, including:
 - Suggestions for **trusted local exchanges** you can use in your region  
 - A direct **support channel** for those who need help with access
 
+We promise:  
+KYC will **never** be used to deny access — only to unlock more trust-based features **when you're ready**.
+
 ---
 
-## 💸 Don’t Have a Local Banking Option?
+## 💸 What If My Country’s Banking System is a Mess?
 
-No problem.
+We get it — in many places, connecting to a local bank is a nightmare.
 
-You can:
+So here’s how you can still fully participate:
 
-1. Connect your crypto wallet (MetaMask, Phantom, etc.)
-2. Earn directly in supported tokens
-3. Use your **preferred local exchange** (like Binance, Luno, or others) to cash out
-4. Still retain your earnings and reputation — KYC not required in most cases
+1. Use a crypto wallet (like MetaMask, Phantom, or similar)
+2. Earn directly in tokens like **SOL** or supported stablecoins
+3. Convert those tokens into local currency using exchanges like Binance, Luno, or trusted local options
+4. Skip the KYC unless you really need to cash out in local cash
 
-If you're stuck or unsure, just **reach out to our team** — we will personally suggest secure workarounds for your country.
+> ⚠️ If you ever feel stuck or don’t know what to do — reach out.  
+> We’ll personally help you find a secure, region-specific solution.
 
 ---
 
 ## ✅ When KYC Might Be Needed
 
-Some parts of the platform may later require verified identity, especially if:
+In the future, some features may require identity checks — but only in special situations:
 
-- You're handling large transaction volumes
-- You’re participating in platform governance
-- Local regulations require it
+- If you're handling **very large volumes** of transactions
+- If you're joining platform governance (voting on policies, upgrades, etc.)
+- If **local law** demands it (we’ll tell you when and why)
 
-When that happens, you will be **notified clearly**, and we will guide you with **care and support** — not pressure.
+When that time comes, **you’ll be notified clearly**, and **guided respectfully**.  
+No pressure. No hidden hoops.
 
 ---
 
@@ -65,6 +85,10 @@ When that happens, you will be **notified clearly**, and we will guide you with 
 
 We believe that talent is everywhere — and access should be too.
 
-Our goal is to make you feel **seen**, **heard**, and **respected** — no matter where you're from or how connected your local banking system is.
+If you're good at what you do, **you belong here**.
 
-If you’re good at what you do, **you belong here** — and we’ll make sure you can participate fully.
+Merit is built to support you, include you, and help you grow — whether you're in Berlin or Bahawalpur, Nairobi or New York.
+
+You're more than a document.  
+You're a builder, a thinker, a doer.  
+And this platform is being built for **you**.
