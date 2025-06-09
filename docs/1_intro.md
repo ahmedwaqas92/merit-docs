@@ -60,14 +60,17 @@ This creates a **healthy, respectful environment** where:
 
 ---
 
-## 🏅 Merit = Trust You Can See
+🏅 Merit = Trust You Can See
 
 You can't buy your way in.  
 You can't fake your way up.
 
-Every badge is **earned** — by delivering great work and treating others fairly.
+Every achievement on Merit is earned — through real work, honesty, and dispute-free collaboration.
 
-These badges (NFTs) are proof of dispute-free collaboration and unlock more access across the platform — like community spaces, discussions, and priority listings.
+You’ll collect badges as you go — digital proof that you’re building trust, not just ticking boxes.
+
+> These tokens unlock more than reputation.  
+> (More on that soon.)
 
 ---
 
