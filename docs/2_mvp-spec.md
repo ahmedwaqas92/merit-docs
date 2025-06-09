@@ -17,6 +17,9 @@ In this first version, we want to make sure users can:
 
 - Join the community and unlock new privileges based on the work they’ve done
 
+&nbsp;  
+&nbsp;
+
 > 💡 **Powered by Solana**
 >
 > **The platform runs on the Solana network** — it's fast, secure, and cheap to use.  
