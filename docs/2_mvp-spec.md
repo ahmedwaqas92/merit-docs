@@ -13,11 +13,12 @@ In this first version, we want to make sure users can:
 - Work with others and finish freelance jobs
 - Use a system that holds money safely until the job is done
 - Earn a special badge — something we call a Jinnah NFT — after finishing a job successfully.  
-It’s like a medal you can’t lose, fake, or hang on your fridge. (We’ll explain it properly soon.)
+  > 🥇 _It’s like a medal you can’t lose, fake, or hang on your fridge. (We’ll explain it properly soon.)_
+
 - Join the community and unlock new privileges based on the work they’ve done
 
 The platform runs on the Solana network — it's fast, secure, and cheap to use.  
-Never heard of Solana? Don’t worry — we’ll explain it later without sounding like a crypto bro.
+> ⚡ _Never heard of Solana? Don’t worry — we’ll explain it later without sounding like a crypto bro._
 
 ---
 
@@ -26,12 +27,10 @@ Never heard of Solana? Don’t worry — we’ll explain it later without soundi
 ### 1. Signing Up and Profiles
 
 - You can sign in using a crypto wallet (like MetaMask or Phantom)  
-  If you’re new to crypto or don’t have a wallet — no worries.  
-  You can sign up with your email, and we’ll help set up a secure wallet for you behind the scenes.
+  > 🧠 _If you’re new to crypto or don’t have a wallet — no worries. You can sign up with your email, and we’ll help set up a secure wallet for you behind the scenes._
 
 - You get a profile with your skills, reviews, and past jobs  
-  You can choose whether this is public or private — and decide if it should be indexed by search engines.  
-  Your privacy is in your hands.
+  > 🔐 _You can choose whether this is public or private — and decide if it should be indexed by search engines. Your privacy is in your hands._
 
 ### 2. Finding and Posting Jobs
 
