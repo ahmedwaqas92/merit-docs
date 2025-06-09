@@ -60,7 +60,7 @@ This creates a **healthy, respectful environment** where:
 
 ---
 
-🏅 Merit = Trust You Can See
+## 🏅 Merit = Trust You Can See
 
 You can't buy your way in.  
 You can't fake your way up.
