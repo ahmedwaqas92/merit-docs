@@ -29,8 +29,10 @@ Both the **freelancer and the client** get one. Because trust goes both ways.
 Yes—Jinnah NFTs carry value because **you earned them**. They're not just for show.
 
 - Each NFT reflects the size and success of the job it came from.  
-- For example: A $500 job might result in a Jinnah NFT with higher “weight” or trust ranking in the system.  
+- For example: A $500 job might result in a Jinnah NFT with **a value equivalent to 3–5%** of the job amount in trust weight.  
 - This adds up over time—like XP in a game, but backed by real proof of work.
+
+> 📌 Just a heads-up: These percentages are examples only. Actual values and mechanics will be finalized as the platform grows.
 
 While you can't trade or sell your NFT, it’s more than a souvenir:
 
