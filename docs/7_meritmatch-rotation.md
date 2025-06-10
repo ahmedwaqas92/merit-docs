@@ -1,4 +1,4 @@
-# 🔄 MeritMatch: Smarter, Fairer Freelancer Visibility
+# MeritMatch: Smarter, Fairer Freelancer Visibility
 
 In most platforms, visibility is a race—won by the fastest bidder, loudest region, or largest portfolio.  
 At Merit, we believe visibility should be **earned**, **balanced**, and **shared**.
