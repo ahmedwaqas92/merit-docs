@@ -12,7 +12,7 @@ In this first version, we want to make sure users can:
 
 * Work with others and finish freelance jobs
 * Use a system that holds money safely until the job is done
-*   Earn a special badge — something we call a Jinnah NFT — after finishing a job successfully.
+* Earn a special badge — something we call a Jinnah NFT — after finishing a job successfully.
 
     > 🥇 _It’s like a medal you can’t lose, fake, or hang on your fridge. (We’ll explain it properly soon.)_
 * Join the community and unlock new privileges based on the work they’ve done
@@ -30,10 +30,10 @@ In this first version, we want to make sure users can:
 
 ### 1. Signing Up and Profiles
 
-*   You can sign in using a crypto wallet (like MetaMask or Phantom)
+* You can sign in using a crypto wallet (like MetaMask or Phantom)
 
     > 🧠 _If you’re new to crypto or don’t have a wallet — no worries. You can sign up with your email, and we’ll help set up a secure wallet for you behind the scenes._
-*   You get a profile with your skills, reviews, and past jobs
+* You get a profile with your skills, reviews, and past jobs
 
     > 🔐 _You can choose whether this is public or private — and decide if it should be indexed by search engines. Your privacy is in your hands._
 
